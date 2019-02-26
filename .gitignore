@@ -1,2 +1,2 @@
-node-modules
-/counter-app/node-modules
+node-modules/
+counter-app/node-modules/
